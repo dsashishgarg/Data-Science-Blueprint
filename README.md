@@ -2,9 +2,12 @@ Sample Data Science Project
 ==============================
 
 Steps to replicate over terminal:
-1.) pip install cookiecutter
-2.) cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science
+------------
+Run below steps over terminal:
+    1.) pip install cookiecutter
+    2.) cookiecutter -c v1 https://github.com/drivendata/cookiecutter-data-science
 
+------------
 
 Project Organization
 ------------
