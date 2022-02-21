@@ -1,7 +1,7 @@
 Sample Data Science Project
 ==============================
 
-Steps to replicate over terminal:
+Steps to replicate folder structure using terminal:
 ------------
 Run below steps over terminal:
     1.) pip install cookiecutter
